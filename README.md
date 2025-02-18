@@ -40,7 +40,7 @@ The weather app is live at: https://weather-app-git-main-gunashree-channakeshava
 ### 🌅 Home page
 ![Weather App](p2.png)
 
-### 📍 Current Location Weather (Click to Expand)
+### 📍 Current Location Weather
 ![Current Location Weather](p3.png)
 
 ### 🔍 Search Weather by City
