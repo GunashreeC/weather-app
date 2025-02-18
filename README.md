@@ -5,6 +5,8 @@ A simple and modern weather application that allows users to **search for weathe
 The interface is **clean, user-friendly, and responsive**, designed using **Tailwind CSS**. The app also includes **hover effects, click-to-expand weather details, and a refresh button** for an enhanced user experience.  
 
 The weather app is live at: https://weather-app-git-main-gunashree-channakeshavas-projects.vercel.app
+(Location access needs to be given)
+
 
 ---
 
