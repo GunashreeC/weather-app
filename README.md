@@ -38,13 +38,13 @@ The weather app is live at: https://weather-app-git-main-gunashree-channakeshava
 ## 📸 Screenshots
 
 ### 🌅 Home page
-![Weather App](p2.png)
+![Weather App](src/assets/p2.png)
 
 ### 📍 Current Location Weather
-![Current Location Weather](p3.png)
+![Current Location Weather](src/assets/p3.png)
 
 ### 🔍 Search Weather by City
-![Search City Weather](p4.png)
+![Search City Weather](src/assets/p4.png)
 
 
 ---
