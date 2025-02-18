@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.bg-weather {
+    background-image: url('/weather.png'); /* Change to your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+  
+  .dark {
+    background-color: #1a202c;
+    color: white;
+  }
+  
